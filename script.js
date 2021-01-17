@@ -17,4 +17,5 @@ $(document).ready(function() {
         $(".stream3").removeClass('highlight_stream');
         $(".stream3").addClass('highlight_stream');
    });
+   
 }); 
